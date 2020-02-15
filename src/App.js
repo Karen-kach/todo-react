@@ -1,9 +1,10 @@
 import React from 'react';
 import List from './List_todo/list';
 
+
 const App = () => {
   return (
-    <div>
+    <div className='app'>
       <List />
     </div>
   )

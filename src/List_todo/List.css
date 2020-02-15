@@ -1,0 +1,21 @@
+.list{
+    display: flex;
+    justify-content: center;
+}
+.inp{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px; 
+    border: 0px;
+    font-size: 20px;
+    
+}
+.btn{
+    width: 60px;
+    height: 40px;
+    border-radius: 5px; 
+}
+.btt{
+    background-color: red;
+    margin-left: 40px;
+}
